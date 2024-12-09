@@ -6,3 +6,4 @@ sqlalchemy
 scikit-learn
 matplotlib
 seaborn
+psycopg2-binary
